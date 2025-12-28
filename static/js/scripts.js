@@ -5,8 +5,8 @@ const config_file = 'config.yml'
 const section_names = [
   'home',           // 首页 
   'publications',   // 科研成果
-  'projects',       // 科研项目（原awards）
-  'admission',      // 招生信息（原haha）
+  'projects',       // 科研项目
+  'admission',      // 招生信息
   'students'        // 新增学生情况
 ];
 
