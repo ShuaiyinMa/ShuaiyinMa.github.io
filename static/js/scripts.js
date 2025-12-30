@@ -4,10 +4,11 @@ const content_dir = 'contents/'
 const config_file = 'config.yml'
 const section_names = [
   'home',           // 首页 
-  'publications',   // 科研成果
+  'news',           // 最新动态
+  'publications',   // 发表论文
   'projects',       // 科研项目
   'admission',      // 招生信息
-  'students'        // 新增学生情况
+  'students'        // 学生情况
 ];
 
 
