@@ -1,4 +1,4 @@
-- <strong>在读研究生</strong>
+- <strong>🌱在读研究生</strong>
 
 - 研三：刘宇阳，张萌萌，赵玉宝，李家杰
 
@@ -6,7 +6,7 @@
 
 - 研一：牛晨阳，张成豪，张桓豪
 
-- <strong>毕业生</strong>
+- <strong>✨毕业生 </strong>
 
 - <strong>2022届</strong>
 
