@@ -109,4 +109,15 @@ section .main-body{
     }
 }
 
+/* 恢复 Markdown 列表圆点（仅正文区） */
+.main-body ul {
+    list-style: disc;
+    padding-left: 1.5em;
+}
+
+.main-body li {
+    margin-bottom: 0.5em;
+}
+
+
 
