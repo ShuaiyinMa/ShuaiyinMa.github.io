@@ -6,7 +6,7 @@
 
 - 研一：牛晨阳，张成豪，张桓豪
 
-- <strong>✨毕业生 </strong>
+- <strong>🎓✨🥂毕业生 </strong>
 
 - <strong>2022届</strong>
 
@@ -17,3 +17,9 @@
 - 丁威（国奖）
 
 - <strong>2021届</strong>
+
+- 高丽丽
+
+- 李敏
+
+- 王晨
