@@ -2,9 +2,15 @@
 
 2025.11：🎉[我院马帅印副教授两篇论文入选Top1%ESI高被引论文](http://cs.xupt.edu.cn:81/xiyoucs/showarticle.asp?ArticleID=3649)
 
-2025.07：🎉[【专刊征稿CLET, IF=6.5】面向工业5.0制造业提高可持续性和韧性](https://www.sciencedirect.com/special-issue/323684/enhancing-sustainability-and-resilience-for-manufacturing-towards-industry-50)
+2025.11：🎉[我院马帅印副教授两篇论文入选Top1%ESI高被引论文](http://cs.xupt.edu.cn:81/xiyoucs/showarticle.asp?ArticleID=3649)
 
-2025.04：🎉[《西安邮电大学学报》专题征稿——智算中心低碳技术](https://mp.weixin.qq.com/s/uPG7LFzdL-WyqO8y3KwKMQ)
+2025.11：🎉[祝贺学生曹叶叶带领的团队获研究生数学建模竞赛国家二等奖]
+
+2025.11：🎉[祝贺学生张屹龙带领的团队获研究生数学建模竞赛国家三等奖]
+
+2025.07：🎉[担任《Cleaner Engineering and Technology》（IF=6.5）“面向工业 5.0 制造业提高可持续性和韧性”的专刊主编](https://www.sciencedirect.com/special-issue/323684/enhancing-sustainability-and-resilience-for-manufacturing-towards-industry-50)
+
+2025.04：🎉[担任《西安邮电大学学报》“智算中心低碳技术”的专刊主编](https://mp.weixin.qq.com/s/uPG7LFzdL-WyqO8y3KwKMQ)
 
 2025.03：🎉[我校计算机学院马帅印副教授论文入选ESI高被引论文](https://news.xupt.edu.cn/info/1002/24830.htm)
 
