@@ -4,9 +4,9 @@
 
 2025.11：🎉[我院马帅印副教授两篇论文入选Top1%ESI高被引论文](http://cs.xupt.edu.cn:81/xiyoucs/showarticle.asp?ArticleID=3649)
 
-2025.11：🎉[祝贺学生曹叶叶带领的团队获研究生数学建模竞赛国家二等奖]
+2025.11：🎉祝贺学生曹叶叶带领的团队获研究生数学建模竞赛国家二等奖
 
-2025.11：🎉[祝贺学生张屹龙带领的团队获研究生数学建模竞赛国家三等奖]
+2025.11：🎉祝贺学生张屹龙带领的团队获研究生数学建模竞赛国家三等奖
 
 2025.07：🎉[担任《Cleaner Engineering and Technology》（IF=6.5）“面向工业 5.0 制造业提高可持续性和韧性”的专刊主编](https://www.sciencedirect.com/special-issue/323684/enhancing-sustainability-and-resilience-for-manufacturing-towards-industry-50)
 
@@ -21,6 +21,4 @@
 2023.12：🎉[担任《《工业工程》》青年编委](https://mp.weixin.qq.com/s/PcVhAPtsfnu4S5TOVjef8w)
 
 2023.10：🎉[担任《兵器装备工程学报》青年编委](https://mp.weixin.qq.com/s/5dH3NJ91L0LyBOd2lBmgAQ)
-
-
 
