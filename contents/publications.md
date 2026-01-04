@@ -52,5 +52,5 @@
 
 - <strong>Ma S</strong>, Zhang Y, Lv J, et al. Energy-cyber-physical system enabled management for energy-intensive manufacturing industries[J]. <strong>Journal of cleaner production</strong>, 2019, 226: 892-903.[[Paper]](https://doi.org/10.1016/j.jclepro.2019.04.134)(中科院一区, IF=10)
 
--Zhang Y, <strong>Ma S</strong>, Yang H, et al. A big data driven analytical framework for energy-intensive manufacturing industries[J]. <strong>Journal of Cleaner Production</strong>, 2018, 197: 57-72.[[Paper]](https://doi.org/10.1016/j.jclepro.2018.06.170)(中科院一区, IF=10)
+- Zhang Y, <strong>Ma S</strong>, Yang H, et al. A big data driven analytical framework for energy-intensive manufacturing industries[J]. <strong>Journal of Cleaner Production</strong>, 2018, 197: 57-72.[[Paper]](https://doi.org/10.1016/j.jclepro.2018.06.170)(中科院一区, IF=10)
 
