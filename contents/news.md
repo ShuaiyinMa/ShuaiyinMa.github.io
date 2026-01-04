@@ -14,7 +14,7 @@
 
 2023.12：🎉[我院马帅印副教授论文入选ESI热点论文](http://222.24.19.3:81/xiyoucs/showarticle.asp?ArticleID=3267)
 
-2023.12：🎉[担任《《工业工程》》青年编委](https://mp.weixin.qq.com/s/PcVhAPtsfnu4S5TOVjef8w)
+2023.12：🎉[担任《工业工程》青年编委](https://mp.weixin.qq.com/s/PcVhAPtsfnu4S5TOVjef8w)
 
 2023.10：🎉[担任《兵器装备工程学报》青年编委](https://mp.weixin.qq.com/s/5dH3NJ91L0LyBOd2lBmgAQ)
 

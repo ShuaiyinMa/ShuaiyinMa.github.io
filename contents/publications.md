@@ -1,16 +1,16 @@
-- <strong>Ma S</strong>, Zhao Y, Chen R, et al. CPS-enabled predictive planning for high density tanks in industrial wastewater treatment[J]. Advanced Engineering Informatics, 2025, 68: 103638.[[Paper]](https://doi.org/10.1016/j.aei.2025.103638)(中科院一区, CCF B类, IF=9.9)
+- <strong>Ma S（通讯作者）</strong>, Zhao Y, Chen R, et al. CPS-enabled predictive planning for high density tanks in industrial wastewater treatment[J]. Advanced Engineering Informatics, 2025, 68: 103638.[[Paper]](https://doi.org/10.1016/j.aei.2025.103638)(中科院一区, CCF B类, IF=9.9)
 
 - <strong>Ma S</strong>, Huang Y, Liu Y, et al. Edge-cloud cooperation driven surface roughness classification method for selective laser melting[J]. <strong>Advanced Engineering Informatics</strong>, 2025, 66: 103473.[[Paper]](https://doi.org/10.1016/j.aei.2025.103473)(中科院一区, CCF B类, IF=9.9)
 
-- <strong>Ma S</strong>, Liu Y, Liu Y, et al. Artificial intelligence-enabled predictive energy saving planning of liquid cooling system for data centers[J]. <strong>Advanced Engineering Informatics</strong>, 2025, 65: 103283. [[Paper]](https://doi.org/10.1016/j.aei.2025.103283)(中科院一区, CCF B类, IF=9.9)
+- <strong>Ma S（通讯作者）</strong>, Liu Y, Liu Y, et al. Artificial intelligence-enabled predictive energy saving planning of liquid cooling system for data centers[J]. <strong>Advanced Engineering Informatics</strong>, 2025, 65: 103283. [[Paper]](https://doi.org/10.1016/j.aei.2025.103283)(中科院一区, CCF B类, IF=9.9)
 
 - <strong>Ma S</strong>, Huang Y, Chen Y, et al. Edge-Cloud Cooperation Driven Intelligent Sustainability Evaluation Strategy Based on IoT and CPS for Energy-Intensive Manufacturing Industries[J]. <strong>IEEE Internet of Things Journal</strong>, 2024.[[Paper]](https://ieeexplore.ieee.org/document/10808171)(中科院一区, IF=8.9)
 
-- <strong>Ma S</strong>, Huang Y, Cai W, et al. Integrated sustainable benchmark based on edge-cloud cooperation and big data analytics for energy-intensive manufacturing industries[J]. <strong>Journal of Manufacturing Systems</strong>, 2024, 74: 1037-1056.[[Paper]](https://doi.org/10.1016/j.jmsy.2024.05.010)(中科院一区, IF=14.2)
+- <strong>Ma S（通讯作者）</strong>, Huang Y, Cai W, et al. Integrated sustainable benchmark based on edge-cloud cooperation and big data analytics for energy-intensive manufacturing industries[J]. <strong>Journal of Manufacturing Systems</strong>, 2024, 74: 1037-1056.[[Paper]](https://doi.org/10.1016/j.jmsy.2024.05.010)(中科院一区, IF=14.2)
 
 - <strong>Ma S</strong>, Zhu Z, Liu Y, et al. Artificial intelligence-enabled predictive planning for sewage treatment based on improved DNN and LSTM[J]. <strong>Computers & Industrial Engineering</strong>, 2024, 198: 110636.[[Paper]](https://doi.org/10.1016/j.cie.2024.110636)(中科院一区, IF=6.5)
 
-- <strong>Ma S</strong>, Ding W, Liu Y, et al. Industry 4.0 and cleaner production: A comprehensive review of sustainable and intelligent manufacturing for energy-intensive manufacturing industries[J]. <strong>Journal of Cleaner Production</strong>, 2024: 142879.[[Paper]](https://doi.org/10.1016/j.jclepro.2024.142879)(中科院一区, IF=10)
+- <strong>Ma S</strong>, Ding W, Liu Y, et al. Industry 4.0 and cleaner production: A comprehensive review of sustainable and intelligent manufacturing for energy-intensive manufacturing industries[J]. <strong>Journal of Cleaner Production</strong>, 2024: 142879.[[Paper]](https://doi.org/10.1016/j.jclepro.2024.142879)(中科院一区, IF=10，ESI高被引论文)
 
 - <strong>Ma S</strong>, Ding W, Zheng Y, et al. Edge-cloud collaboration-driven predictive planning based on LSTM-attention for wastewater treatment[J]. <strong>Computers & Industrial Engineering</strong>, 2024, 195: 110425.[[Paper]](https://doi.org/10.1016/j.cie.2024.110425)(中科院一区, IF=6.5)
 
