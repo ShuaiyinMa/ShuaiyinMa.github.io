@@ -1,4 +1,4 @@
-* 英文论文：
+* <strong>英文论文：</strong>
 
 - <strong>Ma S</strong>, Niu C, Zhang M, et al. Edge-cloud collaboration-driven predictive planning of electric vehicle charging load for microgrids[J]. Applied Energy, 2026, 408: 127362.[[Paper]](https://doi.org/10.1016/j.apenergy.2026.127362)(中科院一区, IF=11)
 
@@ -46,7 +46,7 @@
 
 - Zhang Y, <strong>Ma S</strong>, Yang H, et al. A big data driven analytical framework for energy-intensive manufacturing industries[J]. <strong>Journal of Cleaner Production</strong>, 2018, 197: 57-72.[[Paper]](https://doi.org/10.1016/j.jclepro.2018.06.170)(中科院一区, IF=10)
 
-* 中文论文：
+* <strong>中文论文：</strong>
 
 - <strong>马帅印</strong>, 高丽丽, 贺锦峰, 等. 基于 SSA− LSTM 的转炉炼钢终点锰含量预测[J]. - <strong>工程科学学报</strong>, 2024, 46(10): 1764-1775.[[Paper]](https://www.chndoi.org/Resolution/Handler?doi=10.13374/j.issn2095-9389.2023.10.18.004)(北大核心/CSCD/EI)
 
