@@ -1,3 +1,5 @@
+- <strong>Ma S</strong>, Niu C, Zhang M, et al. Edge-cloud collaboration-driven predictive planning of electric vehicle charging load for microgrids[J]. Applied Energy, 2026, 408: 127362.[[Paper]](https://doi.org/10.1016/j.apenergy.2026.127362)(中科院一区, IF=11)
+
 - <strong>Ma S（通讯作者）</strong>, Zhao Y, Chen R, et al. CPS-enabled predictive planning for high density tanks in industrial wastewater treatment[J]. Advanced Engineering Informatics, 2025, 68: 103638.[[Paper]](https://doi.org/10.1016/j.aei.2025.103638)(中科院一区, CCF B类, IF=9.9)
 
 - <strong>Ma S</strong>, Huang Y, Liu Y, et al. Edge-cloud cooperation driven surface roughness classification method for selective laser melting[J]. <strong>Advanced Engineering Informatics</strong>, 2025, 66: 103473.[[Paper]](https://doi.org/10.1016/j.aei.2025.103473)(中科院一区, CCF B类, IF=9.9)

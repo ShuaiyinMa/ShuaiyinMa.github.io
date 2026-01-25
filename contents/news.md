@@ -1,3 +1,5 @@
+2026.01：🎉[祝贺学生刘宇阳发表论文获《机电工程技术》二等奖！](https://mp.weixin.qq.com/s/OPlo7bHa4oO57tPEskVhtw)
+
 2025.12：🎉[祝贺绿色智造团队刘宇阳获国家奖学金及荣耀Offer！](https://mp.weixin.qq.com/s/NwPZL1osCU4UOF9gE54SJw)
 
 2025.11：🎉[我院马帅印副教授两篇论文入选Top1%ESI高被引论文](http://cs.xupt.edu.cn:81/xiyoucs/showarticle.asp?ArticleID=3649)
