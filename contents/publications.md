@@ -1,5 +1,9 @@
 * <strong>英文论文：</strong>
 
+- <strong>Ma S</strong>, Zhang M, Cheng S, et al. End-edge-cloud collaborative-driven waste-heat prediction of liquid cooling system for high-performance computing data centers[J]. Engineering Applications of Artificial Intelligence, 2026, 171: 114165.[[Paper]](https://doi.org/10.1016/j.engappai.2026.114165)(中科院一区, IF=8.0)
+
+- <strong>Ma S</strong>, Lv J, Huang Y, et al. Edge–cloud cooperation-driven sustainable smart optimization strategy for additive manufacturing[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2026.[[Paper]](https://ieeexplore.ieee.org/abstract/document/11393454)(中科院一区, IF=8.7)
+
 - <strong>Ma S</strong>, Niu C, Zhang M, et al. Edge-cloud collaboration-driven predictive planning of electric vehicle charging load for microgrids[J]. Applied Energy, 2026, 408: 127362.[[Paper]](https://doi.org/10.1016/j.apenergy.2026.127362)(中科院一区, IF=11)
 
 - <strong>Ma S（通讯作者）</strong>, Zhao Y, Chen R, et al. CPS-enabled predictive planning for high density tanks in industrial wastewater treatment[J]. Advanced Engineering Informatics, 2025, 68: 103638.[[Paper]](https://doi.org/10.1016/j.aei.2025.103638)(中科院一区, CCF B类, IF=9.9)
