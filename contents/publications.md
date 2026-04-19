@@ -2,7 +2,7 @@
 
 - <strong>Ma S</strong>, Zhang M, Cheng S, et al. End-edge-cloud collaborative-driven waste-heat prediction of liquid cooling system for high-performance computing data centers[J]. Engineering Applications of Artificial Intelligence, 2026, 171: 114165.[[Paper]](https://doi.org/10.1016/j.engappai.2026.114165)(中科院一区, IF=8.0)
 
-- <strong>Ma S</strong>, Lv J, Huang Y, et al. Edge–cloud cooperation-driven sustainable smart optimization strategy for additive manufacturing[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2026.[[Paper]](https://ieeexplore.ieee.org/abstract/document/11393454)(中科院一区, IF=8.7)
+- <strong>Ma S</strong>, Lv J, Huang Y, et al. Edge–cloud cooperation-driven sustainable smart optimization strategy for additive manufacturing[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2026, 56(5): 3174–3185.[[Paper]](https://ieeexplore.ieee.org/abstract/document/11393454)(中科院一区, IF=8.7)
 
 - <strong>Ma S</strong>, Niu C, Zhang M, et al. Edge-cloud collaboration-driven predictive planning of electric vehicle charging load for microgrids[J]. Applied Energy, 2026, 408: 127362.[[Paper]](https://doi.org/10.1016/j.apenergy.2026.127362)(中科院一区, IF=11)
 
@@ -12,7 +12,7 @@
 
 - <strong>Ma S（通讯作者）</strong>, Liu Y, Liu Y, et al. Artificial intelligence-enabled predictive energy saving planning of liquid cooling system for data centers[J]. <strong>Advanced Engineering Informatics</strong>, 2025, 65: 103283. [[Paper]](https://doi.org/10.1016/j.aei.2025.103283)(中科院一区, CCF B类, IF=9.9)
 
-- <strong>Ma S</strong>, Huang Y, Chen Y, et al. Edge-Cloud Cooperation Driven Intelligent Sustainability Evaluation Strategy Based on IoT and CPS for Energy-Intensive Manufacturing Industries[J]. <strong>IEEE Internet of Things Journal</strong>, 2024.[[Paper]](https://ieeexplore.ieee.org/document/10808171)(中科院一区, IF=8.9)
+- <strong>Ma S</strong>, Huang Y, Chen Y, et al. Edge-Cloud Cooperation Driven Intelligent Sustainability Evaluation Strategy Based on IoT and CPS for Energy-Intensive Manufacturing Industries[J]. <strong>IEEE Internet of Things Journal</strong>, 2024, 12(9): 12287-12297.[[Paper]](https://ieeexplore.ieee.org/document/10808171)(中科院一区, IF=8.9)
 
 - <strong>Ma S</strong>, Zhu Z, Liu Y, et al. Artificial intelligence-enabled predictive planning for sewage treatment based on improved DNN and LSTM[J]. <strong>Computers & Industrial Engineering</strong>, 2024, 198: 110636.[[Paper]](https://doi.org/10.1016/j.cie.2024.110636)(中科院一区, IF=6.5)
 
