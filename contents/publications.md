@@ -52,6 +52,8 @@
 
 * <strong>中文论文：</strong>
 
+- <strong>马帅印</strong>, 张桓豪,郑宇娟,等. 生成式AI赋能的数字经济高质量发展机制与路径[J]. 工业工程, 2026. (北大核心/CSCD/EI)
+
 - <strong>马帅印</strong>, 高丽丽, 贺锦峰, 等. 基于 SSA− LSTM 的转炉炼钢终点锰含量预测[J]. - <strong>工程科学学报</strong>, 2024, 46(10): 1764-1775.(北大核心/CSCD/EI)[[Paper]](https://www.chndoi.org/Resolution/Handler?doi=10.13374/j.issn2095-9389.2023.10.18.004)
 
 - 李敏,<strong>马帅印</strong>,殷磊,等.云边端协同驱动的陶瓷制造过程能效调度方法[J].<strong>兵器装备工程学报</strong>,2024,45(08):174-183.
