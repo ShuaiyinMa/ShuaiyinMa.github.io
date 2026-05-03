@@ -6,3 +6,5 @@
 
 谷歌学术主页：https://scholar.google.com.hk/citations?user=UyBzIu0AAAAJ&hl=zh-CN&oi=sra
 
+公众号：绿色智造团队
+
