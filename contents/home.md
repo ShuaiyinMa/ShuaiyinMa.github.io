@@ -1,6 +1,6 @@
 #### 个人简介
 
-马帅印，博士，西安邮电大学教授、硕士生导师，绿色智算与决策研发中心主任，美国伊利诺伊大学研究学者，长期从事数字孪生、大数据、人工智能、绿色智算、预测与控制优化等研究，主持国家留学基金委、陕西省科技厅、陕西省哲学社会科学、陕西省教育厅、咸阳市科技局、西安邮电大学高层次人才等项目。已发表学术论文30余篇，谷歌学术引用1800余次，h-index为18，以第一作者身份在《IEEE Transactions on Systems Man and Cybernetics Systems》《IEEE IoT Journal》《 Engineering Applications of Artificial Intelligence》《Journal of Manufacturing System》《Applied Energy》《Energy》《Advanced Engineering Informatics》等中科院一区SCI期刊发表近20篇，其中3篇入选ESI热点/高被引论文；申请/授权发明专利10余项；授权软著6项。担任《Information Dynamics and Applications》、《工业工程》、《兵器装备工程学报》和《机电工程技术》等期刊（青年）编委及《机电工程技术》“工业互联网驱动的高能耗制造系统优化方法与技术”、《Cleaner Engineering and Technology》（IF=6.5）“面向工业 5.0 制造业提高可持续性和韧性”及《西安邮电大学学报》“智算中心低碳技术”的专刊主编。
+马帅印，博士，西安邮电大学教授、硕士生导师，绿色智算与决策研发中心主任，美国伊利诺伊大学研究学者，长期从事数字孪生、大数据、人工智能、绿色智算、预测与控制优化等研究，主持国家留学基金委、陕西省科技厅、陕西省哲学社会科学、陕西省教育厅、咸阳市科技局、西安邮电大学高层次人才等项目。已发表学术论文30余篇，谷歌学术引用1800余次，h-index为20，以第一作者身份在《IEEE Transactions on Systems Man and Cybernetics Systems》《IEEE IoT Journal》《 Engineering Applications of Artificial Intelligence》《Journal of Manufacturing System》《Applied Energy》《Energy》《Advanced Engineering Informatics》等中科院一区SCI期刊发表近20篇，其中3篇入选ESI热点/高被引论文；申请/授权发明专利10余项；授权软著6项。担任《Information Dynamics and Applications》、《工业工程》、《兵器装备工程学报》和《机电工程技术》等期刊（青年）编委及《机电工程技术》“工业互联网驱动的高能耗制造系统优化方法与技术”、《Cleaner Engineering and Technology》（IF=6.5）“面向工业 5.0 制造业提高可持续性和韧性”及《西安邮电大学学报》“智算中心低碳技术”的专刊主编。
 
 #### 电子邮箱
 
