@@ -61,8 +61,7 @@
 
 - <strong>马帅印</strong>, 刘宇阳, 白琳, 张萌萌, 肖溱鸽. 面向新质生产力的数据要素赋能高能耗企业绿色智能制造研究[J].<strong>机电工程技术</strong>,2024,53(09):32-36+95.(北大核心/CSCD/EI)[[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=7KCVMXbQLqJv2Bo9AZgb6Pq-T2FDn68-K_rjwEJw5tlHmkX0CZ56SpFR1eEIdBOVcaxnd0beNlBMJlX2dZAOuMIbKTGNCy2paDXJHe28hgC-1HTbYPAolnLW0TLnNGXT_mMacX_0c0P1mxf2F4lzTHSAXsJnfxQEKumF4sEHtEQSW4bSR0g3Aw==&uniplatform=NZKPT&language=CHS)
 
-- <strong>马帅印</strong>, 王晨, 卢津, 孔宪光, 殷磊, 陈改革, 张茜. 数据驱动的污水处理高密池混凝加药预测研究[J].<strong>给水排水</strong>,2024,60(02):158-166.
-(北大核心/CSCD/EI)[[Paper]](https://doi.org/10.13789/j.cnki.wwe1964.2023.09.06.0005)
+- <strong>马帅印</strong>, 王晨, 卢津, 孔宪光, 殷磊, 陈改革, 张茜. 数据驱动的污水处理高密池混凝加药预测研究[J].<strong>给水排水</strong>,2024,60(02):158-166.(北大核心/CSCD/EI)[[Paper]](https://doi.org/10.13789/j.cnki.wwe1964.2023.09.06.0005)
 
 - <strong>马帅印</strong>, 李敏, 殷磊, 孔宪光, 王超, 胥军. 基于特征加权集成学习的陶瓷制造能效预测方法研究[J].<strong>计算机集成制造系统</strong>,2025,31(10):3817-3830.(北大核心/CSCD/EI)[[Paper]](https://doi.org/10.13196/j.cims.2023.0398)
 
