@@ -1,5 +1,7 @@
 * <strong>英文论文：</strong>
 
+- <strong>Ma S</strong>, Cao Y, Cao Y, et al. Cyber-physical system enabled synergistic control of energy and material flows for energy-intensive manufacturing industries[J]. <strong>Advanced Engineering Informatics</strong>, 2026, 74: 104722.(中科院一区, CCF B类, IF=9.9)[[Paper]](https://doi.org/10.1016/j.aei.2026.104722)
+
 - <strong>Ma S</strong>, Zhang M, Cheng S, Min Y, Wang J, Xiao J. End-edge-cloud collaborative-driven waste-heat prediction of liquid cooling system for high-performance computing data centers[J]. <strong>Engineering Applications of Artificial Intelligence</strong>, 2026, 171: 114165.(中科院一区, IF=8.0)[[Paper]](https://doi.org/10.1016/j.engappai.2026.114165)
 
 - <strong>Ma S</strong>, Lv J, Huang Y, Chen Y, Yan Z, Li M, Leng J. Edge–cloud cooperation-driven sustainable smart optimization strategy for additive manufacturing[J]. <strong>IEEE Transactions on Systems, Man, and Cybernetics: Systems</strong>, 2026, 56(5): 3174–3185.(中科院一区, IF=8.7)[[Paper]](https://ieeexplore.ieee.org/abstract/document/11393454)
