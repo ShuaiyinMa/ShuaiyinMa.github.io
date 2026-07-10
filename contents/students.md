@@ -16,6 +16,16 @@
 
 - 丁威（北京MDPI出版社）
 
+- <strong>2023级</strong>
+
+- 赵玉宝
+
+- 李家杰
+
+- 刘宇阳
+
+- 张萌萌
+
 - <strong>🏆学生获奖情况🏆</strong>
 
 - <strong>💡研究生创新基金：</strong>
