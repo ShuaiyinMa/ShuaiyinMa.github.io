@@ -1,3 +1,5 @@
+2026.06：🎉[绿色制造团队荣获“千喜杯”第五届“五好研究生团队”！]
+
 2026.03：🎉[入选《工业工程》第二届青年编委会！](https://mp.weixin.qq.com/s/PQItCfZKXZTjQHlp6i_DjA)
 
 2026.01：🎉[祝贺学生刘宇阳发表论文获《机电工程技术》二等奖！](https://mp.weixin.qq.com/s/OPlo7bHa4oO57tPEskVhtw)
