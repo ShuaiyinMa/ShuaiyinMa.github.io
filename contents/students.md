@@ -10,23 +10,29 @@
 
 - <strong>2022级</strong>
 
-- 黄禹铭（连续两次国奖）（攻读西安交通大学博士）
+- [黄禹铭（连续两次国奖）（攻读西安交通大学博士）](https://mp.weixin.qq.com/s/9k0A-V7zZYmQfvLp5-wTHA)
 
-- 曹益春（北京京东）
+- [曹益春（北京京东）](https://mp.weixin.qq.com/s/9k0A-V7zZYmQfvLp5-wTHA)
 
-- 丁威（北京MDPI出版社）
+- [丁威（北京MDPI出版社）](https://mp.weixin.qq.com/s/9k0A-V7zZYmQfvLp5-wTHA)
 
 - <strong>2023级</strong>
 
-- 赵玉宝
+- [赵玉宝](https://mp.weixin.qq.com/s/w0VmcwJiLerbRsdww9kmeA)
 
-- 李家杰
+- [李家杰](https://mp.weixin.qq.com/s/w0VmcwJiLerbRsdww9kmeA)
 
-- 刘宇阳
+- [刘宇阳](https://mp.weixin.qq.com/s/w0VmcwJiLerbRsdww9kmeA)
 
-- 张萌萌
+- [张萌萌](https://mp.weixin.qq.com/s/w0VmcwJiLerbRsdww9kmeA)
 
 - <strong>🏆学生获奖情况🏆</strong>
+
+<strong>🎓研究生拔尖创新人才「邮博计划」入选名单🎓</strong>
+
+- 曹叶叶
+- 吕骏驰
+- 牛晨阳
 
 - <strong>💡研究生创新基金：</strong>
 
@@ -85,6 +91,16 @@
 - [10]西安邮电大学大学生科技立项，边云协同驱动的电子增材制造喷墨质量预测与控制优化方法研究（黄禹铭）
 
 - [11]西安邮电大学大学生科技立项，数据驱动的微电网负荷预测及能源优化调度策略研究（张萌萌）
+
+- [12] 西安邮电大学大学生科技立项，基于深度强化学习的群体智能协同优化转炉炼钢能效调控方法研究（韩静）
+
+- [13] 西安邮电大学大学生科技立项，边云协同驱动的增材制造可持续智能优化策略研究（吕骏驰）
+
+- [14] 西安邮电大学大学生科技立项，基于图强化学习的液冷系统多目标优化调控方法研究（张屹龙）
+
+- [15] 西安邮电大学大学生科技立项，基于 AI 的超算中心液冷系统时序温度预测与多目标能耗优化（张成豪）
+
+- [16] 西安邮电大学大学生科技立项，基于边云协同的微电网电动汽车充电负荷预测研究（牛晨阳）
 
 - <strong>🏅奖学金：</strong>
 

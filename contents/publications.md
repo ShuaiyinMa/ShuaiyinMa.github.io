@@ -2,9 +2,9 @@
 
 - <strong>Ma Shuaiyin（通讯作者）</strong>, Cao Yeye, Cao Yichun, Yue Benyong, Chen Mingjing, Miao Jiarong, Shao Haidong. Cyber-physical system enabled synergistic control of energy and material flows for energy-intensive manufacturing industries[J]. <strong>Advanced Engineering Informatics</strong>, 2026, 74: 104722.(中科院一区, CCF B类, IF=11.5)[[Paper]](https://doi.org/10.1016/j.aei.2026.104722)
 
-- <strong>Ma Shuaiyin（通讯作者）</strong>, Zhang Mengmeng, Cheng Shi, Min Yunran, Wang Jiaqiang, Xiao Jinhua. End-edge-cloud collaborative-driven waste-heat prediction of liquid cooling system for high-performance computing data centers[J]. <strong>Engineering Applications of Artificial Intelligence</strong>, 2026, 171: 114165.(中科院一区, IF=9)[[Paper]](https://doi.org/10.1016/j.engappai.2026.114165)
+- <strong>Ma Shuaiyin（通讯作者）</strong>, Zhang Mengmeng, Cheng Shi, Min Yunran, Wang Jiaqiang, Xiao Jinhua. End-edge-cloud collaborative-driven waste-heat prediction of liquid cooling system for high-performance computing data centers[J]. <strong>Engineering Applications of Artificial Intelligence</strong>, 2026, 171: 114165.(中科院一区, IF=9.0)[[Paper]](https://doi.org/10.1016/j.engappai.2026.114165)
 
-- <strong>Ma Shuaiyin</strong>, , Lv Junchi, Huang Yuming, Chen Yanping, Yan Zhiqiang, Li Maoyuan, Leng Jiewu. Edge–cloud cooperation-driven sustainable smart optimization strategy for additive manufacturing[J]. <strong>IEEE Transactions on Systems, Man, and Cybernetics: Systems</strong>, 2026, 56(5): 3174–3185.(中科院一区, IF=8.4)[[Paper]](https://ieeexplore.ieee.org/abstract/document/11393454)
+- <strong>Ma Shuaiyin</strong>, Lv Junchi, Huang Yuming, Chen Yanping, Yan Zhiqiang, Li Maoyuan, Leng Jiewu. Edge–cloud cooperation-driven sustainable smart optimization strategy for additive manufacturing[J]. <strong>IEEE Transactions on Systems, Man, and Cybernetics: Systems</strong>, 2026, 56(5): 3174–3185.(中科院一区, IF=8.4)[[Paper]](https://ieeexplore.ieee.org/abstract/document/11393454)
 
 - <strong>Ma Shuaiyin</strong>, Niu Chenyang, Zhang Mengmeng, Yun Lingxiang, Xiao Qinge, Yue Benyong, Xu Jun. Edge-cloud collaboration-driven predictive planning of electric vehicle charging load for microgrids[J]. <strong>Applied Energy</strong>, 2026, 408: 127362.(中科院一区, IF=12.2)[[Paper]](https://doi.org/10.1016/j.apenergy.2026.127362)
 
@@ -54,16 +54,16 @@
 
 * <strong>中文论文：</strong>
 
-- <strong>马帅印</strong>, 张桓豪, 郑宇娟, 岳本勇. 生成式AI赋能的数字经济高质量发展机制与路径[J]. - <strong>工业工程</strong>, 2026. (北大核心/CSCD/EI)
+- <strong>马帅印</strong>, 张桓豪, 郑宇娟, 岳本勇. 生成式AI赋能的数字经济高质量发展机制与路径[J]. - <strong>工业工程</strong>, 2026. (北大核心)
 
 - <strong>马帅印</strong>, 高丽丽, 贺锦峰, 殷磊, 张茜, 胥军. 基于 SSA−LSTM 的转炉炼钢终点锰含量预测[J]. - <strong>工程科学学报</strong>, 2024, 46(10): 1764-1775.(北大核心/CSCD/EI)[[Paper]](https://www.chndoi.org/Resolution/Handler?doi=10.13374/j.issn2095-9389.2023.10.18.004)
 
 - 李敏, <strong>马帅印</strong>, 殷磊, 孔宪光. 云边端协同驱动的陶瓷制造过程能效调度方法[J].<strong>兵器装备工程学报</strong>,2024,45(08):174-183.
-(北大核心/CSCD/EI)[[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=7KCVMXbQLqJ8umJjCKT0D9tO7erPqQv214NbQlz_Lq4n2h2_1iGZ5ZuEKPis-oCgflTA6EJKYc8N5HehcKd5AumCt17A4V8gFXO99lTBqH5HpS-GUl7DvvPzHfV2rlVmH8hxbImrnl5oRfvrE49fSBndmfY0Zzoj&uniplatform=NZKPT&language=CHS)
+(北大核心)[[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=7KCVMXbQLqJ8umJjCKT0D9tO7erPqQv214NbQlz_Lq4n2h2_1iGZ5ZuEKPis-oCgflTA6EJKYc8N5HehcKd5AumCt17A4V8gFXO99lTBqH5HpS-GUl7DvvPzHfV2rlVmH8hxbImrnl5oRfvrE49fSBndmfY0Zzoj&uniplatform=NZKPT&language=CHS)
 
-- <strong>马帅印</strong>, 刘宇阳, 白琳, 张萌萌, 肖溱鸽. 面向新质生产力的数据要素赋能高能耗企业绿色智能制造研究[J].<strong>机电工程技术</strong>,2024,53(09):32-36+95.(北大核心/CSCD/EI)[[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=7KCVMXbQLqJv2Bo9AZgb6Pq-T2FDn68-K_rjwEJw5tlHmkX0CZ56SpFR1eEIdBOVcaxnd0beNlBMJlX2dZAOuMIbKTGNCy2paDXJHe28hgC-1HTbYPAolnLW0TLnNGXT_mMacX_0c0P1mxf2F4lzTHSAXsJnfxQEKumF4sEHtEQSW4bSR0g3Aw==&uniplatform=NZKPT&language=CHS)
+- <strong>马帅印</strong>, 刘宇阳, 白琳, 张萌萌, 肖溱鸽. 面向新质生产力的数据要素赋能高能耗企业绿色智能制造研究[J].<strong>机电工程技术</strong>,2024,53(09):32-36+95.(普刊)[[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=7KCVMXbQLqJv2Bo9AZgb6Pq-T2FDn68-K_rjwEJw5tlHmkX0CZ56SpFR1eEIdBOVcaxnd0beNlBMJlX2dZAOuMIbKTGNCy2paDXJHe28hgC-1HTbYPAolnLW0TLnNGXT_mMacX_0c0P1mxf2F4lzTHSAXsJnfxQEKumF4sEHtEQSW4bSR0g3Aw==&uniplatform=NZKPT&language=CHS)
 
-- <strong>马帅印</strong>, 王晨, 卢津, 孔宪光, 殷磊, 陈改革, 张茜. 数据驱动的污水处理高密池混凝加药预测研究[J].<strong>给水排水</strong>,2024,60(02):158-166.(北大核心/CSCD/EI)[[Paper]](https://doi.org/10.13789/j.cnki.wwe1964.2023.09.06.0005)
+- <strong>马帅印</strong>, 王晨, 卢津, 孔宪光, 殷磊, 陈改革, 张茜. 数据驱动的污水处理高密池混凝加药预测研究[J].<strong>给水排水</strong>,2024,60(02):158-166.(北大核心)[[Paper]](https://doi.org/10.13789/j.cnki.wwe1964.2023.09.06.0005)
 
 - <strong>马帅印</strong>, 李敏, 殷磊, 孔宪光, 王超, 胥军. 基于特征加权集成学习的陶瓷制造能效预测方法研究[J].<strong>计算机集成制造系统</strong>,2025,31(10):3817-3830.(北大核心/CSCD/EI)[[Paper]](https://doi.org/10.13196/j.cims.2023.0398)
 
