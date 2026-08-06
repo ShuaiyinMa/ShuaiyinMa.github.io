@@ -52,17 +52,19 @@
 
 - Zhang Yingfeng, <strong>Ma Shuaiyin</strong>, Yang Haidong, Lv Jingxiang, Liu Yang. A big data driven analytical framework for energy-intensive manufacturing industries[J]. <strong>Journal of Cleaner Production</strong>, 2018, 197: 57-72.(中科院一区, IF=10.7)[[Paper]](https://doi.org/10.1016/j.jclepro.2018.06.170)
 
-- Han Gang, Chang Xuan, Wang Yaotian, <strong>Ma Shuaiyin</strong>, Zhang Zhongliang. BMC-FedStack: Secure and robust federated stacking for residential short-term load forecasting[J]. <strong>Energy and Buildings</strong>, 2026: 117896.(SCIE, 新锐期刊二区, IF=8.0)[[Paper]](https://doi.org/10.1016/j.enbuild.2026.117896)
+- Han Gang, Chang Xuan, Wang Yaotian, <strong>Ma Shuaiyin</strong>, Zhang Zhongliang. BMC-FedStack: Secure and robust federated stacking for residential short-term load forecasting[J]. <strong>Energy and Buildings</strong>, 2026: 117896.(SCI二区, IF=8.0)[[Paper]](https://doi.org/10.1016/j.enbuild.2026.117896)
 
-- Liu Bufan, Chen Chun-Hsien, Qi Wenqian, <strong>Ma Shuaiyin</strong>. A multi-domain data-driven and multiscale 1DCNN-based ensemble learning method for condition monitoring[J]. <strong>Journal of Engineering Design</strong>, 2026.(SCIE, 新锐期刊三区, IF=4.1)[[Paper]](https://doi.org/10.1080/09544828.2026.2617800)
+- Liu Bufan, Chen Chun-Hsien, Qi Wenqian, <strong>Ma Shuaiyin</strong>. A multi-domain data-driven and multiscale 1DCNN-based ensemble learning method for condition monitoring[J]. <strong>Journal of Engineering Design</strong>, 2026.(SCI三区, IF=4.1)[[Paper]](https://doi.org/10.1080/09544828.2026.2617800)
 
-- Yan Zhiqiang, Chu Zhaojie, Xu Zhiguang, Hui Jizhuang, Lv Jingxiang, <strong>Ma Shuaiyin</strong>. The influence of size-dependence effect on residual stress of annular component in selective laser melting via numerical modeling and experiments[J]. <strong>Journal of Materials Research and Technology</strong>, 2025, 38: 242-261.(SCIE, 新锐期刊二区, IF=7.3)[[Paper]](https://doi.org/10.1016/j.jmrt.2025.07.234)
+- Yan Zhiqiang, Chu Zhaojie, Xu Zhiguang, Hui Jizhuang, Lv Jingxiang, <strong>Ma Shuaiyin</strong>. The influence of size-dependence effect on residual stress of annular component in selective laser melting via numerical modeling and experiments[J]. <strong>Journal of Materials Research and Technology</strong>, 2025, 38: 242-261.(SCI二区, IF=7.3)[[Paper]](https://doi.org/10.1016/j.jmrt.2025.07.234)
 
-- <strong>Ma Shuaiyin（通讯作者）</strong>, Cao Yichun, Liu Yang. Edge computing-enabled energy efficiency prediction of immersion cooling system for supercomputing centers[J]. <strong>Cleaner Engineering and Technology</strong>, 2025, 27: 101014.(新锐期刊二区, IF=7.3)[[Paper]](https://doi.org/10.1016/j.clet.2025.101014)
+- <strong>Ma Shuaiyin（通讯作者）</strong>, Cao Yichun, Liu Yang. Edge computing-enabled energy efficiency prediction of immersion cooling system for supercomputing centers[J]. <strong>Cleaner Engineering and Technology</strong>, 2025, 27: 101014.(二区, IF=7.3)[[Paper]](https://doi.org/10.1016/j.clet.2025.101014)
 
-- Lv Jingxiang, Wang Zhiguo, <strong>Ma Shuaiyin</strong>. Calculation method and its application for energy consumption of ball mills in ceramic industry based on power feature deployment[J]. <strong>Advances in Applied Ceramics</strong>, 2020, 119(4): 183-194.(SCIE, 新锐期刊四区, IF=1.6)[[Paper]](https://doi.org/10.1080/17436753.2020.1732621)
+- Lv Jingxiang, Wang Zhiguo, <strong>Ma Shuaiyin</strong>. Calculation method and its application for energy consumption of ball mills in ceramic industry based on power feature deployment[J]. <strong>Advances in Applied Ceramics</strong>, 2020, 119(4): 183-194.(SCI四区, IF=1.6)[[Paper]](https://doi.org/10.1080/17436753.2020.1732621)
 
 * <strong>中文论文：</strong>
+
+- <strong>马帅印</strong>，张成豪，李家杰，吕景祥，蔡维，赵云贵，李超，尹恩怀，张映锋。电子 3D 打印技术制备有机薄膜晶体管及其应用研究进展 [J]. <strong>中国机械工程</strong>，2026，37 (6)：1371-1382.(北大核心 / CSCD/EI)[[Paper]](https://www.cmemo.org.cn/CN/10.3969/j.issn.1004-132X.2026.06.010)
 
 - <strong>马帅印</strong>, 张桓豪, 郑宇娟, 岳本勇. 生成式AI赋能的数字经济高质量发展机制与路径[J]. - <strong>工业工程</strong>, 2026. (北大核心)
 
@@ -83,7 +85,7 @@
 
 - [2]<strong>马帅印</strong>，朱兆松，孔宪光，卢津. 一种基于污水处理大数据技术的生产模型和控制方法[P]. 中国:CN116151458B (授权)
 
-- [3]<strong>马帅印</strong>, 黄禹铭, 孔宪光, 殷磊, 王晋, 任杉. 一种基于云边协同驱动的改进TOPSIS算法的综合评价方法和系统[P]. 中国:CN115630739A (公开)
+- [3]<strong>马帅印</strong>, 黄禹铭, 孔宪光, 殷磊, 王晋, 任杉. 一种基于云边协同驱动的改进TOPSIS算法的综合评价方法和系统[P]. 中国:CN115630739A (授权)
 
 - [4]<strong>马帅印</strong>, 黄禹铭, 殷磊, 孔宪光, 陈彦萍, 吕景祥, 王超. 一种基于边云协同的工业企业效益综合评价方法及系统[P]. 中国: CN115936477A (公开)
 
