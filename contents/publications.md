@@ -8,6 +8,9 @@
 
 - <strong>Ma Shuaiyin</strong>, Niu Chenyang, Zhang Mengmeng, Yun Lingxiang, Xiao Qinge, Yue Benyong, Xu Jun. Edge-cloud collaboration-driven predictive planning of electric vehicle charging load for microgrids[J]. <strong>Applied Energy</strong>, 2026, 408: 127362.(中科院一区, IF=12.2)[[Paper]](https://doi.org/10.1016/j.apenergy.2026.127362)
 
+- <strong>Ma Shuaiyin（通讯作者）</strong>, Cao Yichun, Liu Yang. Edge computing-enabled energy efficiency prediction of immersion cooling system for supercomputing centers[J]. <strong>Cleaner Engineering and Technology</strong>, 2025, 27: 101014.(SCI二区, IF=7.3)[[Paper]](https://doi.org/10.1016/j.clet.2025.101014)
+
+
 - <strong>Ma Shuaiyin（通讯作者）</strong>, Zhao Yubao, Chen Ruizhen, Wang Chen, Bai Lin, Han Gang, Wang Yusheng. CPS-enabled predictive planning for high density tanks in industrial wastewater treatment[J]. <strong>Advanced Engineering Informatics</strong>, 2025, 68: 103638.(中科院一区, CCF B类, IF=11.5)[[Paper]](https://doi.org/10.1016/j.aei.2025.103638)
 
 - <strong>Ma Shuaiyin</strong>, Huang Yuming, Liu Yang, Yan Zhiqiang, Lv Jingxiang, Cai Wei. Edge-cloud cooperation driven surface roughness classification method for selective laser melting[J]. <strong>Advanced Engineering Informatics</strong>, 2025, 66: 103473.(中科院一区, CCF B类, IF=11.5)[[Paper]](https://doi.org/10.1016/j.aei.2025.103473)
@@ -28,27 +31,27 @@
 
 - <strong>Ma Shuaiyin</strong>, Huang Yuming, Liu Yang, Kong Xianguang, Yin Lei, Chen Gaige. Edge-cloud cooperation-driven smart and sustainable production for energy-intensive manufacturing industries[J]. <strong> Applied Energy</strong>, 2023, 337: 120843.(中科院一区, IF=12.2)[[Paper]](https://doi.org/10.1016/j.apenergy.2023.120843)
 
-- Wang Jin, Liu Yang, Ren Shan, Wang Chuang, <strong>Ma Shuaiyin</strong>. Edge computing-based real-time scheduling for digital twin flexible job shop with variable time window[J]. <strong>Robotics and Computer-Integrated Manufacturing</strong>, 2023, 79: 102435.(中科院一区, IF=12.3)[[Paper]](https://doi.org/10.1016/j.rcim.2022.102435)
-
 - <strong>Ma Shuaiyin</strong>, Ding Wei, Liu Yang, Ren Shan, Yang Haidong. Digital twin and big data-driven sustainable smart manufacturing based on information management systems for energy-intensive industries[J]. <strong> Applied Energy</strong>, 2022, 326: 119986.(中科院一区, IF=12.2，ESI热点论文，ESI高被引论文)[[Paper]](https://doi.org/10.1016/j.apenergy.2022.119986)
 
 - <strong>Ma Shuaiyin</strong>, Zhang Yingfeng, Lv Jingxiang, Ren Shan, Yang Haidong, Wang Chao. Data-driven cleaner production strategy for energy-intensive manufacturing industries: Case studies from Southern and Northern China[J]. <strong>Advanced Engineering Informatics</strong>, 2022, 53: 101684.(中科院一区, CCF B类, IF=11.5)[[Paper]](https://doi.org/10.1016/j.aei.2022.101684)
 
-- Yun Lingxiang, <strong>Ma Shuaiyin</strong>, Li Lin, Liu Yang. CPS-enabled and knowledge-aided demand response strategy for sustainable manufacturing[J]. <strong>Advanced Engineering Informatics</strong>, 2022, 52: 101534.(中科院一区, CCF B类, IF=11.5)[[Paper]](https://doi.org/10.1016/j.aei.2022.101534)
-
-- Yun Lingxiang, Li Lin, <strong>Ma Shuaiyin</strong>. Demand response for manufacturing systems considering the implications of fast-charging battery powered material handling equipment[J]. <strong>Applied Energy</strong>, 2022, 310: 118550.(中科院一区, IF=12.2)[[Paper]](https://doi.org/10.1016/j.apenergy.2022.118550)
-
 - <strong>Ma Shuaiyin</strong>, Zhang Yingfeng, Ren Shan, Yang Haidong, Zhu Zhenfei. A case-practice-theory-based method of implementing energy management in a manufacturing factory[J]. <strong>International Journal of Computer Integrated Manufacturing</strong>, 2021, 34(7-8): 829-843.(中科院三区, IF=4.3)[[Paper]](https://doi.org/10.1080/0951192X.2020.1757154)
+
+- <strong>Ma Shuaiyin</strong>, Zhang Yingfeng, Lv Jingxiang, Yang Haidong, Wu Jianzhong. Energy-cyber-physical system enabled management for energy-intensive manufacturing industries[J]. <strong>Journal of cleaner production</strong>, 2019, 226: 892-903.(中科院一区, IF=10.7)[[Paper]](https://doi.org/10.1016/j.jclepro.2019.04.134)
 
 - <strong>Ma Shuaiyin</strong>, Zhang Yingfeng, Liu Yang, Yang Haidong, Lv Jingxiang, Ren Shan. Data-driven sustainable intelligent manufacturing based on demand response for energy-intensive industries[J]. <strong>Journal of Cleaner Production</strong>, 2020, 274: 123155.(中科院一区, IF=10.7)[[Paper]](https://doi.org/10.1016/j.jclepro.2020.123155)
 
 - <strong>Ma Shuaiyin</strong>, Zhang Yingfeng, Lv Jingxiang, Ge Yuntian, Yang Haidong, Li Lin. Big data driven predictive production planning for energy-intensive manufacturing industries[J]. <strong>Energy</strong>, 2020, 211: 118320.(中科院一区, IF=10.1)[[Paper]](https://doi.org/10.1016/j.energy.2020.118320)
 
+- Wang Jin, Liu Yang, Ren Shan, Wang Chuang, <strong>Ma Shuaiyin</strong>. Edge computing-based real-time scheduling for digital twin flexible job shop with variable time window[J]. <strong>Robotics and Computer-Integrated Manufacturing</strong>, 2023, 79: 102435.(中科院一区, IF=12.3)[[Paper]](https://doi.org/10.1016/j.rcim.2022.102435)
+
+- Yun Lingxiang, <strong>Ma Shuaiyin</strong>, Li Lin, Liu Yang. CPS-enabled and knowledge-aided demand response strategy for sustainable manufacturing[J]. <strong>Advanced Engineering Informatics</strong>, 2022, 52: 101534.(中科院一区, CCF B类, IF=11.5)[[Paper]](https://doi.org/10.1016/j.aei.2022.101534)
+
+- Yun Lingxiang, Li Lin, <strong>Ma Shuaiyin</strong>. Demand response for manufacturing systems considering the implications of fast-charging battery powered material handling equipment[J]. <strong>Applied Energy</strong>, 2022, 310: 118550.(中科院一区, IF=12.2)[[Paper]](https://doi.org/10.1016/j.apenergy.2022.118550)
+
 - Li Jiming, Zhang Yingfeng, Qian Cheng, <strong>Ma Shuaiyin</strong>, Zhang Geng. Research on recommendation and interaction strategies based on resource similarity in the manufacturing ecosystem[J]. <strong>Advanced Engineering Informatics</strong>, 2020, 46: 101183.(中科院一区, CCF B类, IF=11.5)[[Paper]](https://doi.org/10.1016/j.aei.2020.101183)
 
 - Lin Qi, Zhang Yingfeng, Yang Shangrui, <strong>Ma Shuaiyin</strong>, Zhang Tongda, Xiao Qinge. A self-learning and self-optimizing framework for the fault diagnosis knowledge base in a workshop[J].<strong> Robotics and Computer-Integrated Manufacturing</strong>, 2020, 65: 101975.(中科院一区, IF=12.3)[[Paper]](https://doi.org/10.1016/j.rcim.2020.101975)
-
-- <strong>Ma Shuaiyin</strong>, Zhang Yingfeng, Lv Jingxiang, Yang Haidong, Wu Jianzhong. Energy-cyber-physical system enabled management for energy-intensive manufacturing industries[J]. <strong>Journal of cleaner production</strong>, 2019, 226: 892-903.(中科院一区, IF=10.7)[[Paper]](https://doi.org/10.1016/j.jclepro.2019.04.134)
 
 - Zhang Yingfeng, <strong>Ma Shuaiyin</strong>, Yang Haidong, Lv Jingxiang, Liu Yang. A big data driven analytical framework for energy-intensive manufacturing industries[J]. <strong>Journal of Cleaner Production</strong>, 2018, 197: 57-72.(中科院一区, IF=10.7)[[Paper]](https://doi.org/10.1016/j.jclepro.2018.06.170)
 
@@ -58,7 +61,6 @@
 
 - Yan Zhiqiang, Chu Zhaojie, Xu Zhiguang, Hui Jizhuang, Lv Jingxiang, <strong>Ma Shuaiyin</strong>. The influence of size-dependence effect on residual stress of annular component in selective laser melting via numerical modeling and experiments[J]. <strong>Journal of Materials Research and Technology</strong>, 2025, 38: 242-261.(SCI二区, IF=7.3)[[Paper]](https://doi.org/10.1016/j.jmrt.2025.07.234)
 
-- <strong>Ma Shuaiyin（通讯作者）</strong>, Cao Yichun, Liu Yang. Edge computing-enabled energy efficiency prediction of immersion cooling system for supercomputing centers[J]. <strong>Cleaner Engineering and Technology</strong>, 2025, 27: 101014.(二区, IF=7.3)[[Paper]](https://doi.org/10.1016/j.clet.2025.101014)
 
 - Lv Jingxiang, Wang Zhiguo, <strong>Ma Shuaiyin</strong>. Calculation method and its application for energy consumption of ball mills in ceramic industry based on power feature deployment[J]. <strong>Advances in Applied Ceramics</strong>, 2020, 119(4): 183-194.(SCI四区, IF=1.6)[[Paper]](https://doi.org/10.1080/17436753.2020.1732621)
 
