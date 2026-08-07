@@ -1,5 +1,7 @@
 * <strong>英文论文：</strong>
 
+- <strong>Ma Shuaiyin（通讯作者）</strong>, Yilong Zhang, Yichun Cao, Wenbo Wang, Luoke Hu, Mingjing Chen, Jun Xu. Cyber-physical system enabled flexible flow-shop scheduling with just-in-time for energy-intensive manufacturing industries[J]. <strong>Computers & Industrial Engineering</strong>, 2026, In Press: 112300. (中科院大类一区, IF=7.3)[[Paper]](https://doi.org/10.1016/j.cie.2026.112300)
+
 - <strong>Ma Shuaiyin（通讯作者）</strong>, Cao Yeye, Cao Yichun, Yue Benyong, Chen Mingjing, Miao Jiarong, Shao Haidong. Cyber-physical system enabled synergistic control of energy and material flows for energy-intensive manufacturing industries[J]. <strong>Advanced Engineering Informatics</strong>, 2026, 74: 104722.(中科院一区, CCF B类, IF=11.5)[[Paper]](https://doi.org/10.1016/j.aei.2026.104722)
 
 - <strong>Ma Shuaiyin（通讯作者）</strong>, Zhang Mengmeng, Cheng Shi, Min Yunran, Wang Jiaqiang, Xiao Jinhua. End-edge-cloud collaborative-driven waste-heat prediction of liquid cooling system for high-performance computing data centers[J]. <strong>Engineering Applications of Artificial Intelligence</strong>, 2026, 171: 114165.(中科院一区, IF=9.0)[[Paper]](https://doi.org/10.1016/j.engappai.2026.114165)
