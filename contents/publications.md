@@ -1,6 +1,6 @@
 * <strong>英文论文：</strong>
 
-- <strong>Ma Shuaiyin（通讯作者）</strong>, Yilong Zhang, Yichun Cao, Wenbo Wang, Luoke Hu, Mingjing Chen, Jun Xu. Cyber-physical system enabled flexible flow-shop scheduling with just-in-time for energy-intensive manufacturing industries[J]. <strong>Computers & Industrial Engineering</strong>, 2026, In Press: 112300. (中科院大类一区, IF=7.3)[[Paper]](https://doi.org/10.1016/j.cie.2026.112300)
+- <strong>Ma Shuaiyin（通讯作者）</strong>, Zhang Yilong, Cao Yichun, Wang Wenbo, Hu Luoke, Chen Mingjing, Xu Jun. Cyber-physical system enabled flexible flow-shop scheduling with just-in-time for energy-intensive manufacturing industries[J]. <strong>Computers & Industrial Engineering</strong>, 2026, In Press: 112300. (中科院大类一区, IF=7.3)[[Paper]](https://doi.org/10.1016/j.cie.2026.112300)
 
 - <strong>Ma Shuaiyin（通讯作者）</strong>, Cao Yeye, Cao Yichun, Yue Benyong, Chen Mingjing, Miao Jiarong, Shao Haidong. Cyber-physical system enabled synergistic control of energy and material flows for energy-intensive manufacturing industries[J]. <strong>Advanced Engineering Informatics</strong>, 2026, 74: 104722.(中科院一区, CCF B类, IF=11.5)[[Paper]](https://doi.org/10.1016/j.aei.2026.104722)
 
