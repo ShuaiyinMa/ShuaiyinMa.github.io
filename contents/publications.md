@@ -78,11 +78,11 @@
 
 1. <strong>马帅印</strong>，高丽丽，贺锦峰，殷磊，张茜，胥军. 基于SSA-LSTM的转炉炼钢终点锰含量预测[J]. <strong>工程科学学报</strong>，2024，46(10)：1764–1775. (北大核心/CSCD/EI)[[Paper]](https://www.chndoi.org/Resolution/Handler?doi=10.13374/j.issn2095-9389.2023.10.18.004)
 
-1. 李敏，<strong>马帅印*（通讯作者）</strong>，殷磊，孔宪光. 云边端协同驱动的陶瓷制造过程能效调度方法[J]. <strong>兵器装备工程学报</strong>，2024，45(8)：174–183. (北大核心)[[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=7KCVMXbQLqJ8umJjCKT0D9tO7erPqQv214NbQlz_Lq4n2h2_1iGZ5ZuEKPis-oCgflTA6EJKYc8N5HehcKd5AumCt17A4V8gFXO99lTBqH5HpS-GUl7DvvPzHfV2rlVmH8hxbImrnl5oRfvrE49fSBndmfY0Zzoj&uniplatform=NZKPT&language=CHS)
-
 1. <strong>马帅印</strong>，刘宇阳，白琳，张萌萌，肖溱鸽. 面向新质生产力的数据要素赋能高能耗企业绿色智能制造研究[J]. <strong>机电工程技术</strong>，2024，53(9)：32–36+95. (遴选核心)[[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=7KCVMXbQLqJv2Bo9AZgb6Pq-T2FDn68-K_rjwEJw5tlHmkX0CZ56SpFR1eEIdBOVcaxnd0beNlBMJlX2dZAOuMIbKTGNCy2paDXJHe28hgC-1HTbYPAolnLW0TLnNGXT_mMacX_0c0P1mxf2F4lzTHSAXsJnfxQEKumF4sEHtEQSW4bSR0g3Aw==&uniplatform=NZKPT&language=CHS)
 
 1. <strong>马帅印</strong>，王晨，卢津，孔宪光，殷磊，陈改革，张茜. 数据驱动的污水处理高密池混凝加药预测研究[J]. <strong>给水排水</strong>，2024，60(2)：158–166. (北大核心)[[Paper]](https://doi.org/10.13789/j.cnki.wwe1964.2023.09.06.0005)
+
+1. 李敏，<strong>马帅印*（通讯作者）</strong>，殷磊，孔宪光. 云边端协同驱动的陶瓷制造过程能效调度方法[J]. <strong>兵器装备工程学报</strong>，2024，45(8)：174–183. (北大核心)[[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=7KCVMXbQLqJ8umJjCKT0D9tO7erPqQv214NbQlz_Lq4n2h2_1iGZ5ZuEKPis-oCgflTA6EJKYc8N5HehcKd5AumCt17A4V8gFXO99lTBqH5HpS-GUl7DvvPzHfV2rlVmH8hxbImrnl5oRfvrE49fSBndmfY0Zzoj&uniplatform=NZKPT&language=CHS)
 
 ### 专利
 
