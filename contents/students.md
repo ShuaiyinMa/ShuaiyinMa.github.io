@@ -18,13 +18,13 @@
 
 - <strong>2023级</strong>
 
-- [赵玉宝](https://mp.weixin.qq.com/s/w0VmcwJiLerbRsdww9kmeA)
+- [赵玉宝（苏州汇川）](https://mp.weixin.qq.com/s/w0VmcwJiLerbRsdww9kmeA)
 
-- [李家杰](https://mp.weixin.qq.com/s/w0VmcwJiLerbRsdww9kmeA)
+- [李家杰（中国石化）](https://mp.weixin.qq.com/s/w0VmcwJiLerbRsdww9kmeA)
 
-- [刘宇阳](https://mp.weixin.qq.com/s/w0VmcwJiLerbRsdww9kmeA)
+- [刘宇阳（西安荣耀）](https://mp.weixin.qq.com/s/w0VmcwJiLerbRsdww9kmeA)
 
-- [张萌萌](https://mp.weixin.qq.com/s/w0VmcwJiLerbRsdww9kmeA)
+- [张萌萌（中国电信）](https://mp.weixin.qq.com/s/w0VmcwJiLerbRsdww9kmeA)
 
 - <strong>🏆学生获奖情况🏆</strong>
 
