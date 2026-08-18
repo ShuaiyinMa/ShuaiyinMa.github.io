@@ -1,4 +1,8 @@
+2026.08：[🎉第九届机械、电子和工业工程国际学术会议（MEIE2026）于8月14—16日在贵州贵阳举办](https://mp.weixin.qq.com/s/DVo1Qthg2fQ8E8RHrDwnzA)
+
 2026.08: 🎉[马帅印副教授参加陕西省“人工智能+制造”实践案例培训，并作“AI赋能制造业高质量发展”专题报告](https://news.xupt.edu.cn/info/1004/27601.htm)
+
+2026.06：🎉[《综合智慧能源》“算力基础设施绿色转型：算电协同关键技术与应用”专刊正式征稿！](https://mp.weixin.qq.com/s/Wfdc6VuG8s2THoihwlmDRg)
 
 2026.06: 🎉[团队牛晨阳在工业工程年会上作《基于人工智能的数据中心液冷系统多目标优化方法》学术报告](https://mp.weixin.qq.com/s/cGjM7cznRCgO43NBIQIBIw)
 
