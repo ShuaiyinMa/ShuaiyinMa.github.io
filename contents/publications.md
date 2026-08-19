@@ -69,7 +69,7 @@
 1. Zhang Yingfeng, <strong>Ma Shuaiyin</strong>, Yang Haidong, Lv Jingxiang, Liu Yang. A big data driven analytical framework for energy-intensive manufacturing industries[J]. <strong>Journal of Cleaner Production</strong>, 2018, 197: 57–72. (中科院一区, IF=10.7)[[Paper]](https://doi.org/10.1016/j.jclepro.2018.06.170)
 
 ### 中文论文
-
+1. <strong>马帅印</strong>. 秦创原牵引下算力与数据要素双轮驱动陕西科产深度融合的路径与政策建议[R]. 秦创原战略研究, 2026(2): 23–25. 
 1. <strong>马帅印</strong>，张成豪，李家杰，吕景祥，蔡维，赵云贵，李超，尹恩怀，张映锋. 电子3D打印技术制备有机薄膜晶体管及其应用研究进展[J]. <strong>中国机械工程</strong>，2026，37(6)：1371–1382. (北大核心/CSCD/EI)[[Paper]](https://www.cmemo.org.cn/CN/10.3969/j.issn.1004-132X.2026.06.010)
 
 1. <strong>马帅印</strong>，张桓豪，郑宇娟，岳本勇. 生成式AI赋能的数字经济高质量发展机制与路径[J]. <strong>工业工程</strong>，2026. (北大核心)
