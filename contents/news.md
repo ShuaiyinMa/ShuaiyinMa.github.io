@@ -1,4 +1,4 @@
-2026.08：[🎉第九届机械、电子和工业工程国际学术会议（MEIE2026）于8月14—16日在贵州贵阳举办](https://mp.weixin.qq.com/s/DVo1Qthg2fQ8E8RHrDwnzA)
+<!-- 2026.08：[🎉第九届机械、电子和工业工程国际学术会议（MEIE2026）于8月14—16日在贵州贵阳举办](https://mp.weixin.qq.com/s/DVo1Qthg2fQ8E8RHrDwnzA) -->
 
 2026.08: 🎉[马帅印副教授参加陕西省“人工智能+制造”实践案例培训，并作“AI赋能制造业高质量发展”专题报告](https://news.xupt.edu.cn/info/1004/27601.htm)
 
