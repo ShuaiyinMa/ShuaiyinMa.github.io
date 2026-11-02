@@ -1,8 +1,8 @@
 ### 英文论文(一作/通讯)
 
-1. <strong>Ma Shuaiyin</strong>, Cao Yeye, Liu Yang, Liu Xiufeng, Liu Bufan, Zhuang Yan, Hu Luoke. Edge-cloud collaboration-driven predictive modeling for high-performance computing centers[J]. <strong>Neural Networks</strong>, 2026, in press: 109508. (中科院二区, IF=7.2)[[Paper]](https://doi.org/10.1016/j.neunet.2026.109508)
+1. <strong>Ma Shuaiyin</strong>, Cao Yeye, Liu Yang, Liu Xiufeng, Liu Bufan, Zhuang Yan, Hu Luoke. Edge-cloud collaboration-driven predictive modeling for high-performance computing centers[J]. <strong>Neural Networks</strong>, 2027, 205(Pt. C): 109508. (中科院二区, IF=7.2)[[Paper]](https://doi.org/10.1016/j.neunet.2026.109508)
 
-1. <strong>Ma Shuaiyin</strong>, Zhang Yilong, Cao Yichun, Wang Wenbo, Hu Luoke, Chen Mingjing, Xu Jun. Cyber-physical system enabled flexible flow-shop scheduling with just-in-time for energy-intensive manufacturing industries[J]. <strong>Computers & Industrial Engineering</strong>, 2026, in press, 112300. (中科院大类一区, IF=7.3)[[Paper]](https://doi.org/10.1016/j.cie.2026.112300)
+1. <strong>Ma Shuaiyin</strong>, Zhang Yilong, Cao Yichun, Wang Wenbo, Hu Luoke, Chen Mingjing, Xu Jun. Cyber-physical system enabled flexible flow-shop scheduling with just-in-time for energy-intensive manufacturing industries[J]. <strong>Computers & Industrial Engineering</strong>, 2026, 220: 112300. (中科院大类一区, IF=7.3)[[Paper]](https://doi.org/10.1016/j.cie.2026.112300)
 
 1. <strong>Ma Shuaiyin（通讯作者）</strong>, Cao Yeye, Cao Yichun, Yue Benyong, Chen Mingjing, Miao Jiarong, Shao Haidong. Cyber-physical system enabled synergistic control of energy and material flows for energy-intensive manufacturing industries[J]. <strong>Advanced Engineering Informatics</strong>, 2026, 74: 104722. (中科院一区, CCF B类, IF=11.5)[[Paper]](https://doi.org/10.1016/j.aei.2026.104722)
 
@@ -69,12 +69,16 @@
 1. Zhang Yingfeng, <strong>Ma Shuaiyin</strong>, Yang Haidong, Lv Jingxiang, Liu Yang. A big data driven analytical framework for energy-intensive manufacturing industries[J]. <strong>Journal of Cleaner Production</strong>, 2018, 197: 57–72. (中科院一区, IF=10.7)[[Paper]](https://doi.org/10.1016/j.jclepro.2018.06.170)
 
 ### 中文论文
+
 1. <strong>马帅印</strong>. 秦创原牵引下算力与数据要素双轮驱动陕西科产深度融合的路径与政策建议[R]. 秦创原战略研究, 2026(2): 23–25. 
+
 1. <strong>马帅印</strong>，张成豪，李家杰，吕景祥，蔡维，赵云贵，李超，尹恩怀，张映锋. 电子3D打印技术制备有机薄膜晶体管及其应用研究进展[J]. <strong>中国机械工程</strong>，2026，37(6)：1371–1382. (北大核心/CSCD/EI)[[Paper]](https://www.cmemo.org.cn/CN/10.3969/j.issn.1004-132X.2026.06.010)
 
 1. <strong>马帅印</strong>，张桓豪，郑宇娟，岳本勇. 生成式AI赋能的数字经济高质量发展机制与路径[J]. <strong>工业工程</strong>，2026. (北大核心)
 
 1. <strong>马帅印</strong>，李敏，殷磊，孔宪光，王超，胥军. 基于特征加权集成学习的陶瓷制造能效预测方法研究[J]. <strong>计算机集成制造系统</strong>，2025，31(10)：3817–3830. (北大核心/CSCD/EI)[[Paper]](https://doi.org/10.13196/j.cims.2023.0398)
+
+1. <strong>马帅印</strong>，牛晨阳，李灿媛，庄严，岳本勇. 人工智能赋能算电协同的关键技术[J]. <strong>综合智慧能源</strong>，2026，48(08)：69–81.
 
 1. <strong>马帅印</strong>，高丽丽，贺锦峰，殷磊，张茜，胥军. 基于SSA-LSTM的转炉炼钢终点锰含量预测[J]. <strong>工程科学学报</strong>，2024，46(10)：1764–1775. (北大核心/CSCD/EI)[[Paper]](https://www.chndoi.org/Resolution/Handler?doi=10.13374/j.issn2095-9389.2023.10.18.004)
 
@@ -90,13 +94,13 @@
 
 1. <strong>马帅印</strong>，朱兆松，孔宪光，卢津. 一种基于污水处理大数据技术的生产模型和控制方法[P]. 中国：CN116151458B（授权），授权公告日：2026-04-03
 
-1. <strong>马帅印</strong>，韩静，庄严，付海平，袁玉峰，吕海兵. 一种超算中心浸没式冷却系统能耗预测方法、装置及介质[P]. 中国：CN120430357A（公开），申请公布日：	2025-08-05
+1. <strong>马帅印</strong>，韩静，庄严，付海平，袁玉峰，吕海兵. 一种超算中心浸没式冷却系统能耗预测方法、装置及介质[P]. 中国：CN120430357A（公开），申请公布日： 2025-08-05
 
 1. <strong>马帅印</strong>，刘宇阳，孙家泽，庄严，付海平，袁玉峰. 一种数据中心散热系统回流温度数据预测方法及系统[P]. 中国：CN120011779A（公开），申请公布日：2025-05-16
 
 1. <strong>马帅印</strong>，赵玉宝. 一种污水处理高密池混凝加药预测方法[P]. 中国：CN119626384A（公开），申请公布日：2025-03-14
 
-1. 王晋，王闯，任杉，<strong>马帅印</strong>. 一种基于可变时间窗的数字孪生柔性车间实时调度方法[P]. 中国：CN114723220B（授权），授权公告日：	2024-08-06
+1. 王晋，王闯，任杉，<strong>马帅印</strong>. 一种基于可变时间窗的数字孪生柔性车间实时调度方法[P]. 中国：CN114723220B（授权），授权公告日： 2024-08-06
 
 1. <strong>马帅印</strong>，丁威，闫飞一，孙雪华，卢津，孔宪光. 一种基于LSTM-Attention的污水处理加药量预测方法及系统[P]. 中国：CN117235595A（公开），申请公布日：2023-12-26.
 
